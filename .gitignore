@@ -1,0 +1,18 @@
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.out
+*.log
+
+# CMake/Make
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
