@@ -1,1 +1,9 @@
-case_id,n,algorithm,cost,time_ms
+case_id,n,algorithm,cost,time_ms0,3,bt,7,0
+0,3,dijkstra,7,0
+0,3,dp,7,0
+1,4,bt,10,0
+1,4,dijkstra,10,0
+1,4,dp,10,0
+2,6,bt,11,0
+2,6,dijkstra,11,0
+2,6,dp,11,0
